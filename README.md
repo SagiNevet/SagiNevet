@@ -11,4 +11,5 @@
 - **Tools**: Git, GitHub, VS Code, Selenium
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sagi-nevet&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SagiNevet&show_icons=true&theme=dark)
+
