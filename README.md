@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sagi Nevet!
 
-🚀 **Aspiring Full Stack Developer** and a Computer Science student> 
+🚀 **Aspiring Full Stack Developer** and a Computer Science student.
 🌱 I’m currently learning **Next.js**, **API integration**, and exploring new technologies.  
 🛠️ I love building projects that solve real-world problems.  
 🎮 In my free time, you might find me playing **League of Legends** (mid lane main)!
